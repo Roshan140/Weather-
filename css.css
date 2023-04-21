@@ -41,13 +41,8 @@ h1 {
     color: white;
 }
 
-.s {
-    display: none;
-    border-radius: 25px;
-    font-size: 15px;
-    background-color: orange;
-    width: 55px;
-}
+
+
 
 @media (max-width : 747px) {
     h1 {
@@ -65,7 +60,6 @@ h1 {
         margin-left: 0%;
     }
 
-    .s {
-        display: inline-flex;
-    }
+   
+    
 }
