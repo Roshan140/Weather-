@@ -1,5 +1,5 @@
 let w = document.querySelector(".w");
-const API_KEY = `3265874a2c77ae4a04bb96236a642d2f`;
+const API_KEY = `e05e9fdd68c1eb363174697c6468be53`;
 
 function getWeather() {
     w.innerHTML = '<h2>Loading...</h2>'
